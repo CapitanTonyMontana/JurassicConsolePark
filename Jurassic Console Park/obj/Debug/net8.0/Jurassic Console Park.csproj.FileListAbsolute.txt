@@ -1,0 +1,14 @@
+C:\Users\Michał\source\repos\Jurassic Console Park\bin\Debug\net8.0\Jurassic Console Park.exe
+C:\Users\Michał\source\repos\Jurassic Console Park\bin\Debug\net8.0\Jurassic Console Park.deps.json
+C:\Users\Michał\source\repos\Jurassic Console Park\bin\Debug\net8.0\Jurassic Console Park.runtimeconfig.json
+C:\Users\Michał\source\repos\Jurassic Console Park\bin\Debug\net8.0\Jurassic Console Park.dll
+C:\Users\Michał\source\repos\Jurassic Console Park\bin\Debug\net8.0\Jurassic Console Park.pdb
+C:\Users\Michał\source\repos\Jurassic Console Park\obj\Debug\net8.0\Jurassic Console Park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\source\repos\Jurassic Console Park\obj\Debug\net8.0\Jurassic Console Park.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\Jurassic Console Park\obj\Debug\net8.0\Jurassic Console Park.AssemblyInfo.cs
+C:\Users\Michał\source\repos\Jurassic Console Park\obj\Debug\net8.0\Jurassic Console Park.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\Jurassic Console Park\obj\Debug\net8.0\Jurassic Console Park.dll
+C:\Users\Michał\source\repos\Jurassic Console Park\obj\Debug\net8.0\refint\Jurassic Console Park.dll
+C:\Users\Michał\source\repos\Jurassic Console Park\obj\Debug\net8.0\Jurassic Console Park.pdb
+C:\Users\Michał\source\repos\Jurassic Console Park\obj\Debug\net8.0\Jurassic Console Park.genruntimeconfig.cache
+C:\Users\Michał\source\repos\Jurassic Console Park\obj\Debug\net8.0\ref\Jurassic Console Park.dll
